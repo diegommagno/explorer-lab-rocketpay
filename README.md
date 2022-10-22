@@ -5,8 +5,8 @@
 <br>
 
 <p align="center">
-  <img alt="Credit card component photo." src=".github/rocketpay.png" width="40%" />
-  <img alt="Credit card component photo." src=".github/rocketpay-2.png" width="51%" />
+  <img alt="Credit card component photo." src=".github/rocketpay.png" width="60%" />
+  <img alt="Credit card component photo." src=".github/rocketpay-2.png" width="71%" />
 </p>
 
 <br>
@@ -16,7 +16,6 @@
 ## 📝 Live Preview 
 
 - [Brazilian Portuguese](https://explorer-lab-rocketpay-indol.vercel.app/) - [repo](https://github.com/diegommagno/explorer-lab-rocketpay)
-- Update: [English](https://diegommagno.com/github/rocketseat/explorer/stage-03/responsive/en/) - [repo](https://github.com/diegommagno/explorer-lab-rocketpay)
 
 
 ## 🧑🏻‍💻 Technologies
@@ -31,6 +30,8 @@
 
 - Mobile first concept
 - DOM elements
+- How to apply iMask
+- What is and how to use Regular Expressions (RegEx)
 
 
 
