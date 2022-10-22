@@ -6,6 +6,7 @@
 
 <p align="center">
   <img alt="Credit card component photo." src=".github/rocketpay.png" width="40%" />
+  <img alt="Credit card component photo." src=".github/rocketpay-2.png" width="51%" />
 </p>
 
 <br>
@@ -14,8 +15,8 @@
 
 ## 📝 Live Preview 
 
-- [Brazilian Portuguese](https://diegommagno.com/github/rocketseat/explorer/stage-03/create-your-event-form/pt-br/) - [repo](https://github.com/diegommagno/rocketseat/tree/main/explorer/stage-03/responsive/pt-br)
-- Update: [English](https://diegommagno.com/github/rocketseat/explorer/stage-03/responsive/en/) - [repo](https://github.com/diegommagno/rocketseat/tree/main/explorer/stage-03/responsive/en)
+- [Brazilian Portuguese](https://explorer-lab-rocketpay-indol.vercel.app/) - [repo](https://github.com/diegommagno/explorer-lab-rocketpay)
+- Update: [English](https://diegommagno.com/github/rocketseat/explorer/stage-03/responsive/en/) - [repo](https://github.com/diegommagno/explorer-lab-rocketpay)
 
 
 ## 🧑🏻‍💻 Technologies
@@ -29,7 +30,6 @@
 ## 🎓 Worked On
 
 - Mobile first concept
-- Media queries
 - DOM elements
 
 
