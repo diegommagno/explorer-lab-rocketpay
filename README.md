@@ -15,7 +15,7 @@
 
 ## 📝 Live Preview 
 
-- [Brazilian Portuguese](https://explorer-lab-rocketpay-indol.vercel.app/) - [repo](https://github.com/diegommagno/explorer-lab-rocketpay)
+- [Brazilian Portuguese](https://explorer-lab-rocketpay-indol.vercel.app/) - viewing now
 - Update: [English](https://rocketpay-en.vercel.app/) - [repo](https://github.com/diegommagno/rocketpay-en)
 
 ## 🧑🏻‍💻 Technologies
